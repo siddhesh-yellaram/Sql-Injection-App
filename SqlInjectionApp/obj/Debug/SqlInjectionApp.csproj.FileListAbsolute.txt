@@ -1,0 +1,7 @@
+D:\test\ADO .NET\SqlInjectionApp\bin\Debug\SqlInjectionApp.exe.config
+D:\test\ADO .NET\SqlInjectionApp\bin\Debug\SqlInjectionApp.exe
+D:\test\ADO .NET\SqlInjectionApp\bin\Debug\SqlInjectionApp.pdb
+D:\test\ADO .NET\SqlInjectionApp\obj\Debug\SqlInjectionApp.csproj.AssemblyReference.cache
+D:\test\ADO .NET\SqlInjectionApp\obj\Debug\SqlInjectionApp.csproj.CoreCompileInputs.cache
+D:\test\ADO .NET\SqlInjectionApp\obj\Debug\SqlInjectionApp.exe
+D:\test\ADO .NET\SqlInjectionApp\obj\Debug\SqlInjectionApp.pdb
